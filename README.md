@@ -46,4 +46,7 @@ Add more obstacles and challenges.
 
 📜 License
 
-This project is open-source. You can modify and distribute it freely.
+This project is open-source and licensed under the GNU General Public License v3.0 (GPL-3.0).  
+You are free to modify and distribute it, but any derivative work must also be open-source under the same license.  
+
+For more details, see the [LICENSE](LICENSE) file.
